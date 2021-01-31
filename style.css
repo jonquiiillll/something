@@ -136,7 +136,6 @@ body {
     align-self: flex-end;
 }
 .time_animation {
-    position: absolute;
     width: 100px;
     height: 60px;
     background-color: white;
